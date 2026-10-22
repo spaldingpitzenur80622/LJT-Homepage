@@ -15,6 +15,7 @@ Academic Background
   * First-year PhD candidate at the HKUST NLP Group, advised by Professor Junxian He
 * B.Eng., Shanghai Jiao Tong University (2020 - 2024)
   * Graduated in June 2024
+  * Advised by Professor Junxian He during undergraduate studies
   * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 Research Experience
